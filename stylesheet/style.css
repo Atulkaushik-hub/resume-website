@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+
+.container{width:100%;margin:0px;}
+
+body  {    background-color: #f1f1f1 !important;
+	width:100%; 
+    }  
+.row {
+	width:100%; 
+    }  
+.bdiv1{	background-color:#000;height:40px;margin:0px;}	
+
+@font-face{
+	src:url(../fonts/oswald/Oswald-Light.ttf) ;
+	font-family:oswald;
+}
+.wid{width:1600px;margin:0px auto;}
+.bdiv2{	background-color: #fff !important;padding:48px 0px 48px 0px;}	
+.bdiv2_h1{font-family: "Oswald",Arial,sans-serif;font-size:48px;text-align:center;font-weight:bolder;margin:0px auto;}
+.bdiv2_h6{text-align:center;font-size: 16px; margin:10px;font-family: "Oswald",Arial,sans-serif;font-weight:normal;}
+.bdiv2_h6_S{background-color: #000;color: #fff;font-size: 16px;padding:0px 10px 0px 10px;}
+
+
+.jane-image-div{background-image:url(../images/jane.jpg);height:1060px;background-image:no-repeat;}
+.font {font-family: "Oswald",Arial,sans-serif;}
+
+
+
